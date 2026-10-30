@@ -1,0 +1,15 @@
+# Ohitetaan build-kansio (tämä on se tärkein!)
+build/
+
+# Ohitetaan väliaikaiset CMake-tiedostot, jos niitä livahtaa juureen
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ohitetaan editorikohtaiset tiedostot (esim. VS Code tai Vim)
+.vscode/
+.cache/
+*.swp
+
+src/config.json

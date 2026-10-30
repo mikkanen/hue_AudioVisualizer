@@ -1,0 +1,8 @@
+{
+    "mac": "xx:xx:xx:xx:xx:xx",
+    "username": "PHILIPS_BRIDGE_USERNAME",
+    "bridge_ip": "XXX.XXX.XXX.XXX",
+    "owm_api_key": "WEATHER_SERVICE_API_KEY",
+    "location": "Mikkeli,FI",
+    "light_id": 1
+}
